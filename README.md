@@ -8,4 +8,4 @@ Simple POC using temporal.
 docker-compose up -d
 ```
 
-Go to localhost:8080 for temporal web ui.
+Go to `localhost:8080` for temporal web ui.
